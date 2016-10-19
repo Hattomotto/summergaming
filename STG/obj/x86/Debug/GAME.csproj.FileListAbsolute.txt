@@ -1,0 +1,6 @@
+D:\Dropbox\SummerTask\bin\Altseed_core.dll
+D:\Dropbox\SummerTask\bin\STG.exe
+D:\Dropbox\SummerTask\bin\STG.pdb
+D:\Dropbox\SummerTask\STG\obj\x86\Debug\STG.exe
+D:\Dropbox\SummerTask\STG\obj\x86\Debug\STG.pdb
+D:\Dropbox\SummerTask\STG\obj\x86\Debug\GAME.csprojResolveAssemblyReference.cache
